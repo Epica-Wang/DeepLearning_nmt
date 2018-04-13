@@ -8,14 +8,14 @@ These model folders in this repo can produce the translations using three models
 You will need to do the following to use the checkpoints and generate translations from English to Chinese:
 
 1. Clone this git repo:
-'''
+```
 git clone https://github.com/Epica-Wang/DeepLearning_nmt.git
-'''
+```
 
 2. Run the Python code to load the checkpoints and make inference.
 
 To use naive nmt model, please run:
-'''
+```
 python predict_naive.py
-'''
+```
 Then type English sentence you want to translate. Parameters used for the model and translation will be printed on your screen.
