@@ -14,7 +14,7 @@ git clone https://github.com/Epica-Wang/DeepLearning_nmt.git
 
 2. Run the Python code to load the checkpoints and make inference.
 
-To use naive nmt model, please run:
+* To use naive nmt model, please run:
 ```
 python predict_naive.py
 ```
