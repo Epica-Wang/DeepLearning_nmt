@@ -10,7 +10,7 @@ Data that used to train our model is available at: https://drive.google.com/open
 2. Tensorflow >= 1.4
 
 ## How to use
-These model folders in this repo can produce the translations using three models we have trained. Train logs and checkpoints are contained inside each model folder.
+These three model folders *nmt_model*, *nmt_attention_model_scaled_luong_50w*, *nmt_attention_model_bahdanau_50w* in this repo can produce the translations using three models we have trained. Train logs and checkpoints are contained inside each model folder.
 
 You will need to do the following to use the checkpoints and generate translations from English to Chinese:
 
